@@ -11,4 +11,4 @@
 
 ## Graphics
 * [Asesprite ($14.99)](https://www.aseprite.org/) - Animated sprite editor & pixel art tool - Mac/Windows
-* [Pixatool ($9.95)](https://kronbits.itch.io/pixatool) - Mac/Windows
+* [Pixatool ($9.95)](https://kronbits.itch.io/pixatool) -  8bit / Pixel style images or videos - Mac/Windows
