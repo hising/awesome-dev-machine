@@ -6,6 +6,9 @@
 ## Programming Languages
 
 ## Command Line Tools
+* [Homebrew (Free)](https://brew.sh/) - The missing package manager for macOS - Mac
+* [nvm - Node Version Manager (Free)](https://github.com/creationix/nvm) - Manage multiple active node.js versions - Mac
+* [nvm-windows (Free)](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows - Windows
 
 ## Programming Help Tools
 
