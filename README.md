@@ -1,7 +1,7 @@
 # Awesome Development Machine Setup for Windows and Mac
 
 ## Development Environments and IDE:s
-* [WebStorm](https://www.jetbrains.com/webstorm/) - (€12.90 / month)
+* [WebStorm (€12.90 / month)](https://www.jetbrains.com/webstorm/) - Web Development IDE - Mac/Windows
 
 ## Programming Languages
 
