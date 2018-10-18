@@ -10,4 +10,5 @@
 ## Programming Help Tools
 
 ## Graphics
-* [Asesprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool ($14.99)
+* [Asesprite ($14.99)](https://www.aseprite.org/) - Animated sprite editor & pixel art tool - Mac/Windows
+* [Pixatool ($9.95)](https://kronbits.itch.io/pixatool) - Mac/Windows
