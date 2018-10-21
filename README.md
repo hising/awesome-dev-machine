@@ -44,6 +44,11 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Dash (Free)](https://kapeli.com/dash) - API Documentation Browser and Code Snippet Manager - Mac
 * [Velocity ($19.95)](http://velocity.silverlakesoftware.com/) - API Documentation Browser - Windows
 
+## Terminals and Shells
+* [Alacritty (Free)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator - Mac/Windows
+* [Hyper Terminal (Free)](https://hyper.is/) - Electron-based Terminal (HTML, CSS, JS) - Mac/Windows
+* [Oh My Zsh (Free)](https://ohmyz.sh/) - Zsh Configuration Manager - Mac
+
 ## Browser Extensions
 * [React Developer Tools (Free)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) -   Adds React debugging tools to the Chrome Developer Tools. - Mac/Windows
 
@@ -56,3 +61,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [UnrealEngine (5% of gross revenue)](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) - Suite of integrated tools for game developers to design and build games - Mac/Windows
 * [Paparazzi (Free)](https://derailer.org/paparazzi/) - Take Screenshot of Webpages - Mac
 * [ImageOptim (Free)](https://imageoptim.com/mac) - Saves disk space & bandwidth by compressing images without losing quality - Mac/[API](https://imageoptim.com/api)
+
+## Tools I want to check out/start use
+* [Bazel (Free)](https://bazel.build/) - Build and test software of any size, quickly and reliably - Mac/Windows
+* [NeoVim (Free)](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability - Mac/Windows
