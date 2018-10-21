@@ -21,6 +21,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 
 ## User Interface / Ergonomics
 * [BetterSnapTool ($2.99)](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12) - Easy window resize & organize - Mac
+* [LastPass ($2/month)](https://www.lastpass.com/) - Remembers all your passwords - Mac/Windows
 
 ## Developer Tools
 * [Vagrant (Free)](https://www.vagrantup.com/) - Lightweight, reproducible, and portable development environments - Mac/Windows
@@ -28,6 +29,12 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [VirtualBox (Free)](https://www.virtualbox.org/) - x86 and AMD64/Intel64 virtualization - Mac/Windows
 * [Navicat Premium ($599/user/year)](https://www.navicat.com/en/products/navicat-premium) - DB Management Tool and Viewer - Windows
 * [Sequel Pro (Free)](https://www.sequelpro.com/) - DB Management Tool and Viewer - Mac
+* [Swagger (Free)](https://swagger.io/) - API Documentation - Mac/Windows
+* [BrowserSync (Free)](https://browsersync.io/) - Synchronised browser testing - Mac/Windows
+* [SiteSpeed.io (Free)](https://www.sitespeed.io/) - Tools that makes it easy to monitor and measure the performance of your web site. - Mac/Windows
+
+## Browser Extensions
+* [React Developer Tools (Free)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) -   Adds React debugging tools to the Chrome Developer Tools. - Mac/Windows
 
 ## Graphics
 * [Asesprite ($14.99)](https://www.aseprite.org/) - Animated sprite editor & pixel art tool - Mac/Windows
