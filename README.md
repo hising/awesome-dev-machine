@@ -21,6 +21,11 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [nvm - Node Version Manager (Free)](https://github.com/creationix/nvm) - Manage multiple active node.js versions - Mac
 * [nvm-windows (Free)](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows - Windows
 * [pngquant (Free)](https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images - Mac/Windows
+* [create-react-app (Free)](https://github.com/facebook/create-react-app) - Set up a robust React web app by running one command - Mac/Windows
+* [Puppeteer (Free)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API - Mac/Windows
+* [react-native (Free)](https://github.com/facebook/react-native) - Framework for building native apps with React - Mac/Windows
+* [Composer (Free)](https://github.com/composer/composer) - Dependency Manager for PHP - Mac/Windows
+* [Virtualenv (Free)](https://virtualenv.pypa.io/en/stable/) - Virtual (isolated) Environments for Python - Mac/Windows
 
 ## Communication and Writing
 * [Telegram (Free)](https://telegram.org/) - Telegram Messenger - Mac/Windows
@@ -43,6 +48,8 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Apache Benchmark (Free)](https://httpd.apache.org/docs/2.4/programs/ab.html) - Apache HTTP server benchmarking tool - Mac/Windows
 * [Dash (Free)](https://kapeli.com/dash) - API Documentation Browser and Code Snippet Manager - Mac
 * [Velocity ($19.95)](http://velocity.silverlakesoftware.com/) - API Documentation Browser - Windows
+* [Fastlane (Free)](https://fastlane.tools/) - Automate your development and release process - Mac/Windows
+* [Fabric (Free)](https://get.fabric.io/) - Mobile App Platform - Mac/Windows
 
 ## Terminals and Shells
 * [Alacritty (Free)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator - Mac/Windows
@@ -61,6 +68,12 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [UnrealEngine (5% of gross revenue)](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) - Suite of integrated tools for game developers to design and build games - Mac/Windows
 * [Paparazzi (Free)](https://derailer.org/paparazzi/) - Take Screenshot of Webpages - Mac
 * [ImageOptim (Free)](https://imageoptim.com/mac) - Saves disk space & bandwidth by compressing images without losing quality - Mac/[API](https://imageoptim.com/api)
+
+### SaaS-tools
+* [DeployHQ](https://www.deployhq.com/) - Automatic Deployment
+* [Sentry](https://sentry.io/welcome/) - Error Tracking
+* [Pingdom](https://www.pingdom.com/) - Website/Online Service Monitoring
+* [StatusCake (Free)](https://www.statuscake.com/alternative-to-pingdom/) - Website/Online Service Monitoring
 
 ## Tools I want to check out/start use
 * [Bazel (Free)](https://bazel.build/) - Build and test software of any size, quickly and reliably - Mac/Windows
