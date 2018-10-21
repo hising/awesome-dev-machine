@@ -4,6 +4,9 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 
 ## Development Environments and IDE:s
 * [WebStorm (€12.90 / month)](https://www.jetbrains.com/webstorm/) - Web Development IDE - Mac/Windows
+* [Atom (Free)](https://atom.io/) - Extendable/hackable text editor - Mac/Windows
+* [Visual Studio Code (Free)](https://code.visualstudio.com/) - Source code editor developed by Microsoft - Mac/Windows
+* [Android Studio/SDK (Free)](https://developer.android.com/studio/) - Tools for building apps on every type of Android device. - Mac/Windows
 
 ## Programming Languages
 * [NodeJS](https://nodejs.org/en/) - JavaScript runtime - Mac/Windows
@@ -14,10 +17,12 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Homebrew (Free)](https://brew.sh/) - The missing package manager for macOS - Mac
 * [nvm - Node Version Manager (Free)](https://github.com/creationix/nvm) - Manage multiple active node.js versions - Mac
 * [nvm-windows (Free)](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows - Windows
+* [pngquant (Free)](https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images - Mac/Windows
 
-## Communication
+## Communication and Writing
 * [Telegram (Free)](https://telegram.org/) - Telegram Messenger - Mac/Windows
 * [Discord (Free)](https://discordapp.com/) - All-in-one voice and text chat for gamers - Mac/Windows
+* [iA Writer (from $19.90)](https://ia.net/writer) - Focused Writing App - Mac/Windows
 
 ## User Interface / Ergonomics
 * [BetterSnapTool ($2.99)](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12) - Easy window resize & organize - Mac
@@ -44,3 +49,4 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Unity3D Personal (Free)](https://store.unity.com/products/unity-personal) - A free version of Unity for beginners that does not include additional support, training and services - Mac/Windows
 * [UnrealEngine (5% of gross revenue)](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) - Suite of integrated tools for game developers to design and build games - Mac/Windows
 * [Paparazzi (Free)](https://derailer.org/paparazzi/) - Take Screenshot of Webpages - Mac
+* [ImageOptim (Free)](https://imageoptim.com/mac) - Saves disk space & bandwidth by compressing images without losing quality - Mac/[API](https://imageoptim.com/api)
