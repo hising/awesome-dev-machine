@@ -1,7 +1,7 @@
 # Awesome Development Machine Setup for Windows and Mac
 
 ![awesome picture](awesome.jpg)
-[Photo by Jon Tyson on Unsplash](https://unsplash.com/photos/82ZEOTntP8g)
+<sup>[Photo by Jon Tyson on Unsplash](https://unsplash.com/photos/82ZEOTntP8g)</sup>
 
 Opinionated setup for a dev machine on either Mac or Windows. I do primarly app, web, game development and fancy open source, smart command line tools and tools that helps me skip the boring parts of developing stuff. The list is a brain dump so I have a list when I buy/upgrade a new workstation.
 
