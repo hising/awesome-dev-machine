@@ -1,5 +1,8 @@
 # Awesome Development Machine Setup for Windows and Mac
 
+![awesome picture](awesome.jpg)
+[Photo by Jon Tyson on Unsplash](https://unsplash.com/photos/82ZEOTntP8g)
+
 Opinionated setup for a dev machine on either Mac or Windows. I do primarly app, web, game development and fancy open source, smart command line tools and tools that helps me skip the boring parts of developing stuff. The list is a brain dump so I have a list when I buy/upgrade a new workstation.
 
 ## Development Environments and IDE:s
@@ -37,6 +40,9 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Swagger (Free)](https://swagger.io/) - API Documentation - Mac/Windows
 * [BrowserSync (Free)](https://browsersync.io/) - Synchronised browser testing - Mac/Windows
 * [SiteSpeed.io (Free)](https://www.sitespeed.io/) - Tools that makes it easy to monitor and measure the performance of your web site. - Mac/Windows
+* [Apache Benchmark (Free)](https://httpd.apache.org/docs/2.4/programs/ab.html) - Apache HTTP server benchmarking tool - Mac/Windows
+* [Dash (Free)](https://kapeli.com/dash) - API Documentation Browser and Code Snippet Manager - Mac
+* [Velocity ($19.95)](http://velocity.silverlakesoftware.com/) - API Documentation Browser - Windows
 
 ## Browser Extensions
 * [React Developer Tools (Free)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) -   Adds React debugging tools to the Chrome Developer Tools. - Mac/Windows
