@@ -32,6 +32,14 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Discord (Free)](https://discordapp.com/) - All-in-one voice and text chat for gamers - Mac/Windows
 * [iA Writer (from $19.90)](https://ia.net/writer) - Focused Writing App - Mac/Windows
 
+## Programming Fonts
+* [IBM Plex (Free)](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. - Mac/Windows
+* [Fira Code (Free)](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures - Mac/Windows
+* [Source Code Pro (Free)](https://github.com/adobe-fonts/source-code-pro) - Adobes Monospaced font family for user interface and coding environments - Mac/Windows
+* [Consolas (Free)](https://docs.microsoft.com/en-us/typography/font-list/consolas) - Consolas is aimed for use in programming environments - Mac/Windows
+* [Inconsolata (Free)](https://fonts.google.com/specimen/Inconsolata) - a monospace font, designed for printed code listings and the like - Mac/Windows
+* [Menlo (Free)](https://github.com/hbin/top-programming-fonts/blob/master/Menlo-Regular.ttf) - Menlo is based upon the Open Source font Bitstream Vera and the public domain font Deja Vu - Mac/Windows
+
 ## User Interface / Ergonomics
 * [BetterSnapTool ($2.99)](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12) - Easy window resize & organize - Mac
 * [LastPass ($2/month)](https://www.lastpass.com/) - Remembers all your passwords - Mac/Windows
