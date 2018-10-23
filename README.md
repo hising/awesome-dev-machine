@@ -18,6 +18,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 
 ## Command Line Tools
 * [Homebrew (Free)](https://brew.sh/) - The missing package manager for macOS - Mac
+* [Scoop (Free)](https://scoop.sh/) - A command-line installer for Windows - Windows
 * [nvm - Node Version Manager (Free)](https://github.com/creationix/nvm) - Manage multiple active node.js versions - Mac
 * [nvm-windows (Free)](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows - Windows
 * [pngquant (Free)](https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images - Mac/Windows
@@ -26,6 +27,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [react-native (Free)](https://github.com/facebook/react-native) - Framework for building native apps with React - Mac/Windows
 * [Composer (Free)](https://github.com/composer/composer) - Dependency Manager for PHP - Mac/Windows
 * [Virtualenv (Free)](https://virtualenv.pypa.io/en/stable/) - Virtual (isolated) Environments for Python - Mac/Windows
+* [Yarn (Free)](https://yarnpkg.com/lang/en/) - NPM-alternative from Facebook - Mac/Windows
 
 ## Communication and Writing
 * [Telegram (Free)](https://telegram.org/) - Telegram Messenger - Mac/Windows
