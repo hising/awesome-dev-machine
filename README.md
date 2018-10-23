@@ -15,6 +15,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [NodeJS](https://nodejs.org/en/) - JavaScript runtime - Mac/Windows
 * [Python](https://www.python.org/) - Python - Mac/Windows
 * [PHP](http://www.php.net/) - PHP - Mac/Windows
+* [TypeScript](https://www.typescriptlang.org/) - TypeScript - Mac/Windows
 
 ## Command Line Tools
 * [Homebrew (Free)](https://brew.sh/) - The missing package manager for macOS - Mac
