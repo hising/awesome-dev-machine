@@ -79,6 +79,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [UnrealEngine (5% of gross revenue)](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) - Suite of integrated tools for game developers to design and build games - Mac/Windows
 * [Paparazzi (Free)](https://derailer.org/paparazzi/) - Take Screenshot of Webpages - Mac
 * [ImageOptim (Free)](https://imageoptim.com/mac) - Saves disk space & bandwidth by compressing images without losing quality - Mac/[API](https://imageoptim.com/api)
+* [Photoshop CC ($9.99/month)](https://www.adobe.com/products/photoshop/free-trial-download.html) - The Photo Editing Software - Mac/Windows
 
 ### SaaS-tools
 * [DeployHQ](https://www.deployhq.com/) - Automatic Deployment
