@@ -18,6 +18,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript - Mac/Windows
 
 ## Command Line Tools
+* [Git (Free)](https://git-scm.com/download/win) - Distributed version control system  - Mac/Windows
 * [Homebrew (Free)](https://brew.sh/) - The missing package manager for macOS - Mac
 * [Scoop (Free)](https://scoop.sh/) - A command-line installer for Windows - Windows
 * [nvm - Node Version Manager (Free)](https://github.com/creationix/nvm) - Manage multiple active node.js versions - Mac
