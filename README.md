@@ -43,6 +43,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Consolas (Free)](https://docs.microsoft.com/en-us/typography/font-list/consolas) - Consolas is aimed for use in programming environments - Mac/Windows
 * [Inconsolata (Free)](https://fonts.google.com/specimen/Inconsolata) - a monospace font, designed for printed code listings and the like - Mac/Windows
 * [Menlo (Free)](https://github.com/hbin/top-programming-fonts/blob/master/Menlo-Regular.ttf) - Menlo is based upon the Open Source font Bitstream Vera and the public domain font Deja Vu - Mac/Windows
+* [Nerd Fonts](https://nerdfonts.com/) - Iconic font aggregator, collection, and patcher - Windows/Mac/Linux
 
 ## User Interface / Ergonomics
 * [BetterSnapTool ($2.99)](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12) - Easy window resize & organize - Mac
