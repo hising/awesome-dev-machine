@@ -84,6 +84,9 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [ImageOptim (Free)](https://imageoptim.com/mac) - Saves disk space & bandwidth by compressing images without losing quality - Mac/[API](https://imageoptim.com/api)
 * [Photoshop CC ($9.99/month)](https://www.adobe.com/products/photoshop/free-trial-download.html) - The Photo Editing Software - Mac/Windows
 
+## Color Schemes
+* [Nord Color Scheme](https://www.nordtheme.com/) - An arctic, north-bluish color palette. - All
+
 ### SaaS-tools
 * [DeployHQ](https://www.deployhq.com/) - Automatic Deployment
 * [Sentry](https://sentry.io/welcome/) - Error Tracking
