@@ -54,6 +54,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [VirtualBox (Free)](https://www.virtualbox.org/) - x86 and AMD64/Intel64 virtualization - Mac/Windows
 * [Navicat Premium ($599/user/year)](https://www.navicat.com/en/products/navicat-premium) - DB Management Tool and Viewer - Windows
 * [Sequel Pro (Free)](https://www.sequelpro.com/) - DB Management Tool and Viewer - Mac
+* [HeidiSQL (Free)](https://www.heidisql.com/) - Manage MariaDB, MySQL, Microsoft SQL or PostgreSQL - Windows
 * [Swagger (Free)](https://swagger.io/) - API Documentation - Mac/Windows
 * [BrowserSync (Free)](https://browsersync.io/) - Synchronised browser testing - Mac/Windows
 * [SiteSpeed.io (Free)](https://www.sitespeed.io/) - Tools that makes it easy to monitor and measure the performance of your web site. - Mac/Windows
