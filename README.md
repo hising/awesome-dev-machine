@@ -69,6 +69,8 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Alacritty (Free)](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator - Mac/Windows
 * [Hyper Terminal (Free)](https://hyper.is/) - Electron-based Terminal (HTML, CSS, JS) - Mac/Windows
 * [Oh My Zsh (Free)](https://ohmyz.sh/) - Zsh Configuration Manager - Mac
+* [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place! - Windows
+* [Putty](https://www.putty.org/) - PuTTY is an SSH and telnet client - Windows
 
 ## Browser Extensions
 * [React Developer Tools (Free)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) -   Adds React debugging tools to the Chrome Developer Tools. - Mac/Windows
