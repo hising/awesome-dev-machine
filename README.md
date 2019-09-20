@@ -75,6 +75,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 
 ## Browser Extensions
 * [React Developer Tools (Free)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) -   Adds React debugging tools to the Chrome Developer Tools. - Mac/Windows
+* [Stylish / UserStyles.org](https://userstyles.org) - Add custom css/styles to pages - Mac/Windows
 
 ## Graphics
 * [Asesprite ($14.99)](https://www.aseprite.org/) - Animated sprite editor & pixel art tool - Mac/Windows
