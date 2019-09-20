@@ -90,6 +90,9 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 
 ## Color Schemes
 * [Nord Color Scheme](https://www.nordtheme.com/) - An arctic, north-bluish color palette. - All
+* [Data Color Picker](https://learnui.design/tools/data-color-picker.html) - Generate Color Palette - All
+* [ColorBox by Lyft](https://www.colorbox.io/) - Online tool for generating color schemes - All
+
 
 ### SaaS-tools
 * [DeployHQ](https://www.deployhq.com/) - Automatic Deployment
