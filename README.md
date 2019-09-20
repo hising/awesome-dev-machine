@@ -28,6 +28,7 @@ Opinionated setup for a dev machine on either Mac or Windows. I do primarly app,
 * [Puppeteer (Free)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API - Mac/Windows
 * [react-native (Free)](https://github.com/facebook/react-native) - Framework for building native apps with React - Mac/Windows
 * [Composer (Free)](https://github.com/composer/composer) - Dependency Manager for PHP - Mac/Windows
+* [prestissimo (composer plugin)](https://github.com/hirak/prestissimo) - plugin that downloads packages in parallel - Mac/Windows
 * [Virtualenv (Free)](https://virtualenv.pypa.io/en/stable/) - Virtual (isolated) Environments for Python - Mac/Windows
 * [Yarn (Free)](https://yarnpkg.com/lang/en/) - NPM-alternative from Facebook - Mac/Windows
 
